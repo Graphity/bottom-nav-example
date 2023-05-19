@@ -1,3 +1,13 @@
 <resources>
     <string name="app_name">Navigation</string>
+    <string name="home">home</string>
+    <string name="list">list</string>
+    <string name="profile">profile</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="go_to_list_fragment">Go to List fragment</string>
+    <string name="send">Send</string>
+    <string name="gpa">GPA</string>
+    <string name="name">Name</string>
+    <string name="surname">Surname</string>
 </resources>
